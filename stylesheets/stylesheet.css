@@ -47,6 +47,18 @@ h4 {
 li {
 	list-style-type: square;
 }
+.menu {
+	text-decoration:none;
+	color:#ffffff
+margin-left:10px;
+background-color: #848484;
+}
+.menu.active {
+	text-decoration:none;
+	color:white
+margin-left:10px;
+background-color: red;
+}
 
 a:hover {
 	font-weight: bold;
