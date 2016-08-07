@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<link type="text/css" rel="stylesheet" href="stylesheets/stylesheet.css"/>
+		<title>Favorite music/singers</title>
+	</head>
+  <body>
+    <div id="header">
+      <p id="name">information_jeongyeji</p>
+      <a href="mailto:you@yourdomain.com"><p id="email">you@yourdomain.com</p></a>
+    </div>
+    <div class="left">
+  <p><a href="food.html" class="menu active"> Favorite foods </a></p>
+    <p><a href="Hobby.html" class="menu"> Hobbies </a></p>
+  <p><a href="music.html" class="menu"> Favorite music/singers </a></p>
+    </div>
+     <div class="right">
+     <img width="600px" src="http://cfile6.uf.tistory.com/image/230D3E44566453F80CD780">
+     </div>
+     <div id="footer">
+      <p>jeongyeji7639@gmail.com</p>
+   </div>
+   </body>
